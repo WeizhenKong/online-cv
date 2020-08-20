@@ -8,41 +8,40 @@ sidebar:
 
     # Profile information
     name: Weizhen Kong
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Data Scientist, Data Analyst, Technical Consultant, Quality Assurance Analyst
+    avatar: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: weizhenkong123@gwu.edu
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    phone: 202 725 4489
+    website: github.com/WeizhenKong #do not add http://
+    linkedin: www.linkedin.com/in/weizhenkong
+    github: WeizhenKong
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: China
         level: Native
 
-      - idiom: French
-        level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Soccer
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
@@ -55,28 +54,23 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Information System Technology (Certificate of Business Analytics)
+      university: The George Washington University
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Areas of focus: Quantitative and Qualitative Analysis, Machine Learning and Natural Language Processing, Web Analytics, Cloud Computing (AWS & Azure), Information System Development and Application
+        Courses: Data Mining, Machine Learning, Database Management, Statistics for Analytics and Probability Models, Information system development, Web and social analytics, Internet computing, Project management
+          - GPA: 3.81
+          
+    - degree: BBA in Applied Economics
+      university: Hong Kong Baptist University
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Thesis Title: The Significance of Impact from International Crude Oil Price on Chinese Macro Economy
+          - President’s list (Top 1%) and Dean’s list (Top 5%) for academic performance
+          - Courses: Intermediate Microeconomics, Intermediate Macroeconomics, Applied Econometrics, Investment Management, etc.
+          - The president of Enactus in 2016–2017 (led the team of 85 members and five start-up projects); Project manager of a start-up E-commerce business project in 2015-2016 (led the team of 10 members)
+          - Cornell University Summer school from July to August in 2016 for management communication
 experiences:
     - role: Lead Developer
       time: 2015 - Present
